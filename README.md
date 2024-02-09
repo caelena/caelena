@@ -37,6 +37,7 @@ He tenido la oportunidad de trabajar en una variedad de proyectos emocionantes y
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/mmiragalindo/)
+- [Behance](https://www.behance.net/miralin)
 
 ¡No dudes en contactarme si quieres hablar sobre diseño, tecnología o colaborar en proyectos creativos!
 
