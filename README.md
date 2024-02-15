@@ -5,7 +5,7 @@
 ## Acerca de mí
 
 - 🌱 Actualmente estoy formándome en la FP de Desarrollo de Aplicaciones Web (DAW) para ampliar mis conocimientos en programación y desarrollo web.
-- 💼 Tengo una sólida formación en diseño gráfico y desarrollo de aplicaciones web.
+- 💼 Tengo una sólida formación en diseño gráfico, motion graphics y UX/UI.
 - 💻 Disfruto trabajando con herramientas como Adobe Creative Suite, Figma, y las últimas tecnologías web.
 
 ## Mi Formación
