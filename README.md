@@ -1,6 +1,6 @@
 # ¡Bienvenidx a mi perfil de GitHub! 👋
 
-¡Hola! Soy María (también me puedes encontrar por @caelena o como miralin en otras redes), una apasionada del diseño gráfico, la programación y la creación de experiencias digitales. Me encanta explorar la intersección entre el diseño y la tecnología para crear productos y experiencias impactantes.
+¡Hola! Soy María (también me puedes encontrar por miralin (o @mmiralin) en otras redes), una apasionada del diseño gráfico, la programación y la creación de experiencias digitales. Me encanta explorar la intersección entre el diseño y la tecnología para crear productos y experiencias impactantes.
 
 ## Acerca de mí
 
@@ -37,7 +37,8 @@ He tenido la oportunidad de trabajar en una variedad de proyectos emocionantes y
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/mmiragalindo/)
-- [Behance](https://www.behance.net/caelena)
+- [Behance](https://www.behance.net/miralin)
+- [Instagram](https://www.instagram.com/mmiralin/)
 
 ¡No dudes en contactarme si quieres hablar sobre diseño, tecnología o colaborar en proyectos creativos!
 
