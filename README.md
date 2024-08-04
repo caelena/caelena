@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="550" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -26,7 +22,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy María (también me puedes encontrar por miralin (o @mmiralin) en otras redes), una apasionada del diseño gráfico, la programación y la creación de experiencias digitales. Me encanta explorar la intersección entre el diseño y la tecnología para crear productos y experiencias impactantes.<br><br>- 🌱 Actualmente estoy formándome en la FP de Desarrollo de Aplicaciones Web (DAW) para ampliar mis conocimientos en programación y desarrollo web.<br>- 💼 Tengo una sólida formación en diseño gráfico, motion graphics y UX/UI.<br>- 💻 Disfruto trabajando con herramientas como Adobe Creative Suite, Figma, y las últimas tecnologías web.</p>
+<p align="left">¡Hola! Soy María (también me puedes encontrar por miralin (o @mmiralin) en otras redes), una apasionada del diseño gráfico, la programación y la creación de experiencias digitales. Me encanta explorar la intersección entre el diseño y la tecnología para crear productos y experiencias impactantes.<br><br>- 🌱 Acabo de terminar mi formación de FP de Desarrollo de Aplicaciones Web (DAW) para ampliar mis conocimientos en programación y desarrollo web.<br>- 💼 Tengo una sólida formación en diseño gráfico, motion graphics y UX/UI.<br>- 💻 Disfruto trabajando con herramientas como Adobe Creative Suite, Figma, y las últimas tecnologías web.</p>
 
 ###
 
